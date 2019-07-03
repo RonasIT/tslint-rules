@@ -10,11 +10,11 @@
     "module": "commonjs",
     "noImplicitAny": false,
     "noLib": false,
-    "outDir": "./dist",
+    "outDir": "./",
     "removeComments": true,
     "target": "es5"
   },
   "files": [
-    "index.ts"
+    "src/index.ts"
   ]
 }
