@@ -1,7 +1,13 @@
-# See http://help.github.com/ignore-files/ for more about ignoring files.
+# source files
+/src
+/tests
+
+#ts files
+tsconfig.json
+tslint.json
 
 # compiled output
-/dist
+/dist/tests
 /tmp
 /out-tsc
 
