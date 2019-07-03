@@ -1,0 +1,1 @@
+export { Rule as MemberAccessExceptDecoratorsRule } from './src/memberAccessExceptDecoratorsRule';
