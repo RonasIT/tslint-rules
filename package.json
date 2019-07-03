@@ -1,6 +1,6 @@
 {
   "name": "@ronas-it/tslint-rules",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "main": "dist/src/index.js",
   "types": "dist/src/index.d.js",
   "license": "MIT",
